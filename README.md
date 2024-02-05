@@ -13,6 +13,7 @@ If you, for some reason, need to contact me, you can use the following:
 
 ### I'm currently working on:
 - [`FTC_Centerstage`](https://github.com/ImmortalTux/FTC_Centerstage): A Java project containing code used for our robotics team's [2023-2024 FTC Centerstage](https://www.firstinspires.org/robotics/ftc/game-and-season) season.
+- [`TuxFtcLib`](https://github.com/ImmortalTux/TuxFTCLib): A sandbox repository for me to learn the FTCLib library in preparation for future FTC Seasons.
 - `Sokoban++` (private): A clone of the Sokoban puzzle game, written in C++ and SDL.
 
 Ed is the standard text editor!  
